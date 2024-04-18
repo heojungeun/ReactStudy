@@ -20,7 +20,7 @@
 
 ## 목차
 
-1. 리액트 개발을 위해 꼭 알아야 할 자바스크립트 (허)
+1. [리액트 개발을 위해 꼭 알아야 할 자바스크립트 (허)](https://github.com/heojungeun/ReactStudy/blob/main/01_js_tutorial/01_tutorial_js.md)
 2. 리액트 핵심 요소 깊게 살펴보기 (문)
 3. 리액트 훅 깊게 살펴보기 (김)
 4. 서버 사이드 렌더링 (홍)
